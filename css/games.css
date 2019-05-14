@@ -1,0 +1,166 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+
+#games
+{
+	color: white;
+	text-shadow: 0px 0px 10px #F15F78;
+}
+
+#title
+{
+	position:absolute;
+	top: 7vw;
+	background-color: #4D4D4D;
+	height: 300px;
+	padding: 6% 0;
+	border-bottom-style: solid;
+	border-bottom-color: #F15F78;
+	border-bottom-width: 2px;
+	z-index:-1;
+}
+
+/*#title img
+{
+	display: block;
+	width: auto;
+	height: 100%;
+	margin: auto;
+}*/
+
+#banner
+{
+	width: 40%;
+	height: auto;
+	z-index: 2;
+	position: absolute;
+	top: 4vw;
+	margin-left: 30%;
+}
+
+#content
+{
+	font-family: pixelmix;
+	margin: 0 1%;
+	text-align:center;
+	padding: 0;
+	position:absolute;
+	top: calc(0vw + 300px);
+	padding-bottom: 10%;
+}
+
+.game
+{
+	/*background-color: green;*/
+	display:inline-block;
+	margin: 1% auto;
+	border-top-style: solid;
+	border-top-color: #F15F78;
+	border-top-width: 4px;
+	font-family: pixelmix;
+	width: 100%;
+}
+
+.game .app
+{
+	margin: 3% auto;
+	width: 25%;
+	height: auto;
+	/*background-color: green;*/
+}
+
+.appicon
+{
+	width: 100%;
+	auto;
+}
+
+.game p
+{
+	text-align: center;
+}
+
+.gametitle
+{
+	font-weight:bold;
+	font-size: 2vw;
+}
+
+.gamedescription
+{
+	font-size: 1vw;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+video
+{
+	width: 80%;
+	height: auto;
+}
+
+.youtubecontainer
+{
+	position: relative;
+	margin: 1% auto;
+	width: 100%;
+	height: 0;
+	padding-bottom: 56.25%;
+}
+
+.youtubevideo
+{
+	position:absolute;
+	top: 0;
+	left: 0;	
+	width: 80%;
+	height: 80%;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+.googleplay
+{
+	width:auto;
+	margin: 0 auto;
+}
+
+.googleplay img
+{
+	width: 100%;
+	height: auto;
+}
+
+.left
+{
+	/*background-color: green;*/
+}
+
+.left .app
+{
+	float:left;
+}
+
+.left .gametext
+{
+	padding: 1% auto;
+	margin-left:30%;
+}
+
+.right
+{
+	/*background-color: green;*/
+}
+
+.right .app
+{
+	float:right;
+}
+
+.right .gametext
+{
+	margin-right: 30%;
+}	

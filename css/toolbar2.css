@@ -1,0 +1,108 @@
+@font-face {
+  font-family: pixelmix;
+  src: url(fonts/pixelmix.ttf) format('truetype');
+}
+
+.toolbar
+{
+	top: 0;
+	position: fixed;
+	width: 100%;
+	background-color: rgba(0,0,0,0.35);
+	margin-top: 0;
+	z-index:3;
+	box-shadow: 0px 0px 20px 3px #A36A88;
+}
+
+.toolbar-buttons
+{
+	margin-left: 25%;
+	width:50%;
+	height:7vw;
+	background-color: rgba(255,255,255,0);	
+	text-decoration: none;
+}
+
+.toolbar-button
+{
+	border:none;
+	background-color: rgba(255,255,255,0);
+	width: 30%;
+	height:100%;
+	margin:0;
+	cursor: pointer;
+	font-family: pixelmix;
+	font-size:14px;
+}
+
+.home-icon
+{
+	background-color: rgba(255,255,255,0);	
+	border:none;
+	float:left;
+	padding:5px;
+	cursor:pointer;
+}
+
+.home-icon img
+{
+	width:auto;
+	height:6vw;
+	background-color: rgba(255,255,255,0);	
+}
+
+/*.home-icon:hover
+{
+	background-color:#F15F78;	
+}*/
+
+
+
+.toolbar-button:hover #about
+{
+	color: white;
+	text-shadow: 0px 0px 5px #FFFFFF;
+}
+
+.toolbar-button:hover #games
+{
+	color: white;
+	text-shadow: 0px 0px 5px #FFFFFF;
+
+}
+
+.toolbar-button:hover #contact
+{
+	color: white;
+	text-shadow: 0px 0px 5px #FFFFFF;
+
+}
+
+#about
+{
+	color: white;
+	text-shadow: 0 0 0 white;
+	-webkit-transition: text-shadow .4s, color .2s; /* Safari */
+  	transition: text-shadow .4s, color .2s;
+}
+
+#games
+{
+	color: white;
+	text-shadow: 0 0 0 white;
+	-webkit-transition: text-shadow .4s, color .2s; /* Safari */
+  	transition: text-shadow .4s, color .2s;
+}
+
+#contact
+{
+	color: white;
+	text-shadow: 0 0 0 white;
+	-webkit-transition: text-shadow .4s, color .2s; /* Safari */
+  	transition: text-shadow .4s, color .2s;
+}
+
+.toolbar-button p
+{
+	
+}

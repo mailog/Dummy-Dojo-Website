@@ -1,0 +1,168 @@
+body
+{
+	margin:0;
+}
+
+#contact
+{
+	color: white;
+	text-shadow: 0px 0px 10px #F15F78;
+}
+
+#title
+{
+	position:absolute;
+	top: 7vw;
+	background-color: #4D4D4D;
+	height: 300px;
+	padding: 6% 0;
+	border-bottom-style: solid;
+	border-bottom-color: #F15F78;
+	border-bottom-width: 2px;
+	z-index:-1;
+}
+
+/*#title img
+{
+	display: block;
+	width: auto;
+	height: 100%;
+	margin: auto;
+}*/
+
+#banner
+{
+	width: 40%;
+	height: auto;
+	z-index: 2;
+	position: absolute;
+	top: 4vw;
+	margin-left: 30%;
+}
+
+#content
+{
+	font-family: pixelmix;
+	margin: 0 auto;
+	width:100%;
+	text-align:center;
+	padding: 0;
+	position:absolute;
+	top: calc(7vw + 300px);
+	padding-top: 1%;
+	padding-bottom: 5%;
+	background-color:white;
+}
+
+input
+{
+	margin: 1% auto;
+	width: 45%;
+}
+
+textarea
+{
+	margin: 1% auto;
+	width: 45%;
+}
+
+#emailcontent
+{
+	height: 15vh;
+}
+
+a:hover
+{
+	text-decoration:none;
+}
+
+#submit
+{
+	color:#F15F78;
+	border:#F15F78;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 4px;
+	background-color: white;
+	width: 12vw;
+	height: 4vw;
+	font-weight:bold;
+	font-size: 14px;
+	cursor:pointer;
+	margin: 1% auto;
+	
+	box-shadow: 1px 1px 5px 1px #49242F;
+	-webkit-transition: color .5s, border-radius .5s, background-color .5s; /* Safari */
+  	transition: color .5s, border-radius .5s, background-color .5s;
+}
+
+#submit:hover
+{
+	color: white;
+	border-radius: 50px;
+	border-width: 2px;
+	font-size:15px;
+	background-color: #F9768C;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size:3vw;
+}
+
+h2
+{
+	font-weight:bold;
+	font-size: 2vw;
+}
+
+#team
+{
+	font-size: 4.5vw;
+}
+
+.employee
+{
+	border-style:solid;
+	border-color:#F15F78;
+	border-width: 4px;
+	padding: 1% 5% 5% 5%;
+	background-color: #4D4D4D;
+	color: white;
+	margin: 1.5% 1%;
+	width: 40%;
+	border-radius: 10px;
+	font-family: pixelmix;
+	display:inline-block;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+.profile-pic
+{
+	border-radius: 15px;
+	width: 65%;
+	height:auto;
+}
+
+.name
+{
+	font-weight: bold;
+	font-size: 3vw;
+}
+
+.jobtitles
+{
+	font-size: 2vw;
+}
+
+.portfolio
+{
+	font-size: 1.75vw;
+	font-style: italic;
+}
+
