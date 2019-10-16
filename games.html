@@ -11,6 +11,12 @@
 	<link rel="stylesheet" type="text/css" href="css/socialmedia.css">	
 	<link rel="stylesheet" type="text/css" href="css/slideshow.css">
 
+	<script src="TemplateData/UnityProgress.js"></script>
+	<script src="Build/UnityLoader.js"></script>
+	<script>
+	var unityInstance = UnityLoader.instantiate("unityContainer", "Build/HTML5.json", {onProgress: UnityProgress});
+	</script>
+	
 	<script src="js/toolbar.js"></script>	
 </head>
 
@@ -62,6 +68,27 @@
 				<a style="font-weight:bold;" href = "http://kck.st/2TNUO38">Successfully Kickstarted!</a>
 				<div class = "youtubecontainer">
 					<iframe class="youtubevideo" src="https://www.kickstarter.com/projects/dummydojo/ninja-chowdown/widget/video.html" frameborder="0" scrolling="no"> </iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class = "game" style = "border:none;">
+		<div class = "right">
+			<div class = "app">
+				<img class = "appicon" src = "images/Nudacus.png">
+				<!--<a class="googleplay" href='https://play.google.com/store/apps/details?id=com.DummyDojo.Sumo&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style="float:right;" "alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>-->	
+			</div>
+			<div class = "gametext">
+				<br>
+				<p class = "gametitle"> The Legend of Nudacus </p>
+				<p class = "gamedescription"> Run, tackle, and dodge as Nüdacus, the butt-naked hero. Face off in a coliseum of fierce warriors with no equipment other than brute strength and agility. Tackle your opponents into arena traps, lure your foes into each other’s lines of fire, and streak across a coliseum with pride and dignity.</p>		
+				<div class="webgl-content">
+				<div id="unityContainer"></div>
+					<div class="footer">
+						<div class="webgl-logo"></div>
+						<div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+					</div>
 				</div>
 			</div>
 		</div>
