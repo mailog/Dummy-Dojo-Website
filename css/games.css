@@ -96,6 +96,14 @@ body
 	margin-right: 15%;
 }
 
+#unityContainer
+{
+	position: relative;
+	margin: 0% auto;
+	width: 60vw;
+	height: 37.5vw;
+}
+
 .webgl-content
 {
 	position: relative;
