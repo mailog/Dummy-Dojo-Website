@@ -12,7 +12,7 @@ $(window).scroll(function(){
 		{
 			tmpToolbar[i].style.color = "#FF1493";
 		}
-		document.getElementById("home-txt").style.color = "#ffd700";
+		//document.getElementById("home-txt").style.color = "#ffd700";
     }    
     lastScrollTop = st <= 0 ? 0 : st;
 });
