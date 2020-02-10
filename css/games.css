@@ -37,7 +37,7 @@ body
 	height: auto;
 	z-index: 2;
 	position: absolute;
-	top: 11vw;
+	top: 5vw;
 	margin-left: 30%;
 }
 
@@ -48,7 +48,7 @@ body
 	text-align:center;
 	padding: 0;
 	position:absolute;
-	top: calc(7vw + 300px);
+	top: calc(0vw + 300px);
 	padding-bottom: 10%;
 }
 
