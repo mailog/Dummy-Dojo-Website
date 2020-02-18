@@ -6,7 +6,7 @@ $(window).scroll(function(){
 
 	if($(window).scrollTop() == 0)
 	{
-		Console.Log("At the top!!!!");
+		console.Log("At the top!!!!");
 	}
 
     /*if(isScrolledInto($('#content'),$('#toolbar')))
