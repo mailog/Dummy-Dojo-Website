@@ -3,9 +3,13 @@ var st;
 
 $(window).scroll(function(){    
 	st = window.pageYOffset || document.documentElement.scrollTop;
-	
 
-    if(isScrolledInto($('#content'),$('#toolbar')))
+	if($(window).scrollTop() == 0)
+	{
+		Console.Log("At the top!!!!");
+	}
+
+    /*if(isScrolledInto($('#content'),$('#toolbar')))
     {
     	var tmpToolbar = document.getElementsByClassName("toolbar-txt");
 		for(var i = 0; i < tmpToolbar.length; i++)
@@ -14,10 +18,10 @@ $(window).scroll(function(){
 		}
 		//document.getElementById("home-txt").style.color = "#ffd700";
     }    
-    lastScrollTop = st <= 0 ? 0 : st;
+    lastScrollTop = st <= 0 ? 0 : st;*.
 });
 
-function isScrolledInto(elem,tlbr)
+/*function isScrolledInto(elem,tlbr)
 {
     var tlbr;
     if (st > lastScrollTop){
@@ -28,4 +32,4 @@ function isScrolledInto(elem,tlbr)
 	var elemTop = $(elem).position().top;
 	var elemBot = $(elem).position().top + $(elem).outerHeight(true);
     return ((tlbr > elemTop) && (tlbr < elemBot));
-}	
+}*/	
