@@ -30,7 +30,7 @@ footer
 
 .socialmedia img
 {
-	margin: 5px;
+	margin: 2px;
 	width: auto;
 	height: 30px;
 }
@@ -47,7 +47,7 @@ footer
 	background-color: #F15F78;
 	width: 100vw;
 	height: auto;
-	margin: 10px auto;
+	margin: 2px auto;
 }
 
 #FBButt:hover #FBIcon
