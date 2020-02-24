@@ -31,7 +31,7 @@ body
 	z-index: 2;
 }*/
 
-#content
+/*#content
 {
 	font-family: pixelmix;
 	margin: 0 0;
@@ -40,7 +40,7 @@ body
 	position:absolute;
 	top: calc(1vw + 300px);
 	padding-bottom: 5%;
-}
+}*/
 
 /*#weare
 {
