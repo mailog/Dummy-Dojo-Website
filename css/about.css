@@ -33,7 +33,7 @@ body
 	margin: 0 0 0 30%;
 }
 
-#about
+/*#about
 {
 	font-family: pixelmix;
 	margin: 0 auto;
@@ -44,7 +44,7 @@ body
 	top: 100%;
 	padding-top: 0%;
 	padding-bottom: 5%;
-}
+}*/
 
 input
 {
@@ -88,14 +88,14 @@ a:hover
   	transition: color .5s, border-radius .5s, background-color .5s;
 }
 
-#submit:hover
+/*#submit:hover
 {
 	color: white;
 	border-radius: 50px;
 	border-width: 2px;
 	font-size:15px;
 	background-color: #F9768C;
-}
+}*/
 
 h1
 {
