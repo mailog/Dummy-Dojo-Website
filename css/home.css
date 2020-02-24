@@ -3,11 +3,11 @@ body
 	margin:0;
 }
 
-#about
+/*#about
 {
 	color: white;
 	text-shadow: 0px 0px 10px #F15F78;
-}
+}*/
 
 #title
 {
@@ -42,10 +42,10 @@ body
 	padding-bottom: 5%;
 }
 
-#weare
+/*#weare
 {
 	font-size: 30px;
-}
+}*/
 
 #dummyicon
 {
