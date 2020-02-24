@@ -102,7 +102,7 @@ body
 
 .content-header
 {
-	font: pixelmix;
+	font-family: pixelmix;
 	text-align:center;
 	color: white;
 	font-size: 5vh;
