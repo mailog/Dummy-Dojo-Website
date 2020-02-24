@@ -49,6 +49,7 @@ footer
 	width: 100vw;
 	height: auto;
 	margin: 0 auto;
+	padding: 0 auto;
 }
 
 #FBButt:hover #FBIcon
@@ -73,8 +74,10 @@ footer
 
 #copyright
 {
-	font: pixelmix;
+	font-family: pixelmix;
 	text-align: center;
 	color: white;
 	white-space: nowrap;
+	margin: 0;
+	padding: 0;
 }
