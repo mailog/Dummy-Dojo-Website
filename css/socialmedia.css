@@ -76,4 +76,5 @@ footer
 	font: pixelmix;
 	text-align: center;
 	color: white;
+	white-space: nowrap;
 }
