@@ -98,3 +98,11 @@ body
 	height: auto;
 	margin: 0 auto;
 }
+
+.content-header
+{
+	text-align:center;
+	color:white;
+	fone-size: 2vw;
+	text-shadow: 0px 0px 5px #FFFFFF;
+}
