@@ -41,18 +41,17 @@ body
 	margin: 0 0 0 30%;
 }
 
-#about-content
+#about
 {
 	font-family: pixelmix;
 	margin: 0 auto;
 	width:100%;
 	text-align:center;
 	padding: 0;
-	position:absolute;
+	position:inline-block;
 	top: calc(5vw + 300px);
 	padding-top: 0%;
 	padding-bottom: 5%;
-	background-color:white;
 }
 
 input
