@@ -69,3 +69,9 @@ footer
 {
 	content:url("/images/YoutubeIcon.png");
 }
+
+#copyright
+{
+	text-align: center;
+	color: white;
+}
