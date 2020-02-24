@@ -76,14 +76,14 @@ body
 #games-content
 {
 	position: block;
-	height: 80%; 
+	height: 50%; 
 	width: 100%;
 }
 
 .appicon
 {
 	position: block;
-	height: 80%;
+	height: 25%;
 	width: auto;
-	margin: 5%;
+	margin: 1%;
 }
