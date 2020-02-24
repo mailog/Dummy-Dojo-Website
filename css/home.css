@@ -84,14 +84,14 @@ body
 #app-container
 {
 	height:100%;
-	width: 50%;
+	width: 100%;
 	margin: 0 auto;
 }
 
 .appicon
 {
 	position: block;
-	height: 90%;
-	width: auto;
-	margin: 1% auto;
+	width: 20%;
+	height: auto%;
+	margin: 2.5% auto;
 }
