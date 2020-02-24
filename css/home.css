@@ -81,10 +81,17 @@ body
 	width: 100%;
 }
 
+#app-container
+{
+	height:100%;
+	width: 50%;
+	margin: 0 auto;
+}
+
 .appicon
 {
 	position: block;
-	height: 25%;
+	height: 90%;
 	width: auto;
-	margin: 1%;
+	margin: 1% auto;
 }
