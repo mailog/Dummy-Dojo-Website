@@ -75,7 +75,7 @@ body
 
 #games-content
 {
-	position: inline-block;
+	position: block;
 	height: 80%; 
 	width: 100%;
 }
