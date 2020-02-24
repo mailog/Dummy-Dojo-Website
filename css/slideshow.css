@@ -1,7 +1,7 @@
 .slideshow li span { 
     width: 100%;
     height: 100%;
-    position: absolute;
+    position: inline-block;
     top: 0vw;
     left: 0px;
     color: transparent;
@@ -9,10 +9,9 @@
 	border-bottom-color: #F15F78;
 	border-bottom-width: 2px;
 	background-color: #4D4D4D;
-    background-size:auto;
+    background-size: 100% 100%;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-	background-height: 100%;
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
