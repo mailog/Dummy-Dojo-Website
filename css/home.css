@@ -87,6 +87,7 @@ body
 	height:100%;
 	width: 80%;
 	margin: 0 auto;
+	padding: 2.5% 0;
 }
 
 .appicon
@@ -94,5 +95,5 @@ body
 	position: inline-block;
 	width: 17.5%;
 	height: auto;
-	margin: 5% auto;
+	margin: 2.5% auto;
 }
