@@ -73,9 +73,11 @@ body
 	margin-left: 30%;
 }
 
-#games
+#games-content
 {
 	position: inline-block;
+	height: 80%; 
+	width: 100%;
 }
 
 .appicon
