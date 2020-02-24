@@ -40,8 +40,8 @@ body
 	width:100%;
 	text-align:center;
 	padding: 0;
-	position:block;
-	/*top: 200%;*/
+	position:absolute;
+	top: 150%;
 	padding-top: 0%;
 	padding-bottom: 5%;
 }
