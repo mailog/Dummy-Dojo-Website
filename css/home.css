@@ -90,7 +90,7 @@ body
 
 .appicon
 {
-	position: block;
+	position: inline-block;
 	width: 20%;
 	height: auto%;
 	margin: 2.5% auto;
