@@ -33,7 +33,7 @@ body
 	margin: 0 0 0 30%;
 }
 
-/*#about
+#about-content
 {
 	font-family: pixelmix;
 	margin: 0 auto;
@@ -41,10 +41,10 @@ body
 	text-align:center;
 	padding: 0;
 	position:absolute;
-	top: 100%;
+	top: 200%;
 	padding-top: 0%;
 	padding-bottom: 5%;
-}*/
+}
 
 input
 {
