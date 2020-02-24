@@ -72,3 +72,16 @@ body
 	top: 5vw;
 	margin-left: 30%;
 }
+
+#games
+{
+	position: inline-block;
+}
+
+.appicon
+{
+	position: block;
+	height: 80%;
+	width: auto;
+	margin: 5%;
+}
