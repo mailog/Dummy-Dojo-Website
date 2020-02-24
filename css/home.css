@@ -92,6 +92,7 @@ body
 
 .appicon
 {
+	white-space: nowrap;
 	position: inline-block;
 	width: 20%;
 	height: auto;
