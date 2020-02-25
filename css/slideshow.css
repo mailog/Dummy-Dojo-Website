@@ -11,7 +11,7 @@
 	background-color: #4D4D4D;
     background-size: cover;
     background-repeat: no-repeat;
-	background-position = 50% 50%;
+	background-position : 50% auto;
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
