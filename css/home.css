@@ -4,57 +4,14 @@ body
 	background-color: #f2f3f4;
 }
 
-/*#about
-{
-	color: white;
-	text-shadow: 0px 0px 10px #F15F78;
-}*/
-
-/*#title
-{
-	position:absolute;
-	top: 0vw;
-	background-color: #4D4D4D;
-	height: 300px;
-	padding: 6% 0;
-	border-bottom-style: solid;
-	border-bottom-color: #F15F78;
-	border-bottom-width: 1px;
-	z-index:-1;
-}*/
-
-/*#title img
-{
-	display: block;
-	width: 47%;
-	height: 140%;
-	margin: 0 auto;
-	z-index: 2;
-}*/
-
-/*#content
+.content-header
 {
 	font-family: pixelmix;
-	margin: 0 0;
-	text-align:center;
-	padding: 0;
-	position:absolute;
-	top: calc(1vw + 300px);
-	padding-bottom: 5%;
-}*/
-
-/*#weare
-{
-	font-size: 30px;
-}*/
-
-/*#dummyicon
-{
-	width: 300px;
-	height: auto;
-	margin: 0 auto;
-	display:block;
-}*/
+	text-align:left;
+	color: white;
+	font-size: 5vh;
+	text-shadow: 0px 0px 7px #F15F78;
+}
 
 #content-text
 {
@@ -64,15 +21,9 @@ body
 	font-size: 1.5vw;
 }
 
-/*#banner
-{
-	width: 40%;
-	height: auto;
-	z-index: 2;
-	position: absolute;
-	top: 5vw;
-	margin-left: 30%;
-}*/
+/***************/
+/*Games Section*/
+/***************/
 
 #games-content
 {
@@ -114,11 +65,123 @@ body
 	margin: 0 1%;
 }
 
-.content-header
+
+/***************/
+/*Team Section*/
+/***************/
+
+#about-content
 {
 	font-family: pixelmix;
-	text-align:left;
+	margin: 0 auto;
+	width:100%;
+	text-align:center;
+	padding: 0;
+	position:absolute;
+	top: 145%;
+	padding-top: 0%;
+	//padding-bottom: 3%;
+	background-color: #4D4D4D;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../images/slideshow/SumoSlide.jpg);
+}
+
+input
+{
+	margin: 0 auto;
+	width: 45%;
+}
+
+textarea
+{
+	margin: 0 auto;
+	width: 45%;
+}
+
+#emailcontent
+{
+	height: 10vh;
+}
+
+a:hover
+{
+	text-decoration:none;
+}
+
+#submit
+{
+	color:#F15F78;
+	border:#F15F78;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 4px;
+	background-color: white;
+	width: 12vw;
+	height: 4vw;
+	font-weight:bold;
+	font-size: 2vw;
+	cursor:pointer;
+	margin: 1% auto;
+	
+	box-shadow: 1px 1px 5px 1px #49242F;
+	-webkit-transition: color .5s, border-radius .5s, background-color .5s; /* Safari */
+  	transition: color .5s, border-radius .5s, background-color .5s;
+}
+
+#submit:hover
+{
+	border-radius: 50px;
+	background-color: #F9768C;
+	box-shadow: 1px 1px 5px 1px #49242F;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size:3vw;
+}
+
+h2
+{
+	font-weight:bold;
+	font-size: 2vw;
+}
+
+.employee
+{
+	border-style:solid;
+	border-color:#F15F78;
+	border-width: 4px;
+	padding: 1% 1% 1% 1%;
+	background-color: #4D4D4D;
 	color: white;
-	font-size: 5vh;
-	text-shadow: 0px 0px 7px #F15F78;
+	margin: 5%% 1%;
+	width: 25%;
+	border-radius: 10px;
+	font-family: pixelmix;
+	display:inline-block;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+.profile-pic
+{
+	border-radius: 15px;
+	width: 65%;
+	height:auto;
+}
+
+.name
+{
+	font-weight: bold;
+	font-size: 2vw;
+}
+
+.jobtitles
+{
+	font-size: 1vw;
 }
