@@ -16,8 +16,8 @@
 
 .toolbar-buttons
 {
-	margin-left: 95%;
-	width:5%;
+	margin-left: 80%;
+	width:20%;
 	height:7vw;
 	background-color: rgba(255,255,255,0);	
 	text-decoration: none;
@@ -27,7 +27,7 @@
 {
 	border:none;
 	background-color: rgba(255,255,255,0);
-	width: 30%;
+	width: 50%;
 	height:100%;
 	margin:0;
 	cursor: pointer;
