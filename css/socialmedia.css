@@ -17,6 +17,7 @@ footer
 
 .socialmedia
 {
+	position:inline-block;
 	border: none;
 	background-color: transparent;
 	width: 50%;
