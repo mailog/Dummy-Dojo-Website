@@ -60,7 +60,7 @@ textarea
 
 #emailcontent
 {
-	height: 15vh;
+	height: 10vh;
 }
 
 a:hover
@@ -68,7 +68,7 @@ a:hover
 	text-decoration:none;
 }
 
-/*#submit
+#submit
 {
 	color:#F15F78;
 	border:#F15F78;
@@ -86,7 +86,7 @@ a:hover
 	box-shadow: 1px 1px 5px 1px #49242F;
 	-webkit-transition: color .5s, border-radius .5s, background-color .5s; /* Safari */
   	transition: color .5s, border-radius .5s, background-color .5s;
-}*/
+}
 
 #submit:hover
 {
