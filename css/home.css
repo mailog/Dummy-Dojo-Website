@@ -160,15 +160,15 @@ h2
 
 .employee
 {
-	border-style:solid;
+	/*border-style:solid;
 	border-color:#F15F78;
-	border-width: 4px;
+	border-radius: 10px;
+	border-width: 4px;*/
 	padding: 1% 1% 1% 1%;
-	background-color: #4D4D4D;
+	background-color: transparent;
 	color: white;
 	margin: 5%% 1%;
 	width: 25%;
-	border-radius: 10px;
 	font-family: pixelmix;
 	display:inline-block;
 }
