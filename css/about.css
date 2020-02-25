@@ -44,6 +44,11 @@ body
 	top: 145%;
 	padding-top: 0%;
 	//padding-bottom: 3%;
+	background-color: #4D4D4D;
+    background-size: auto 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url(../images/slideshow/SumoSlide.jpg);
 }
 
 input
