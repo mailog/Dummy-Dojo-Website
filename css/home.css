@@ -34,7 +34,7 @@ body
 	border-bottom-style: solid;
 	border-bottom-color: #F15F78;
 	border-bottom-width: 2px;
-	padding: 1% auto;
+	padding: 1% 0;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/NinjaSlide.jpg);
@@ -79,7 +79,7 @@ body
 	text-align:center;
 	padding: 0;
 	position:absolute;
-	top: 145%;
+	top: 140%;
 	padding-top: 0%;
 	//padding-bottom: 3%;
 	background-color: #4D4D4D;
