@@ -18,7 +18,7 @@ footer
 .socialmedia
 {
 	border: none;
-	/*background-color: white;*/
+	background-color: transparent;
 	width: 10%;
 	height: 25%;
 	cursor: pointer;
