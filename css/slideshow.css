@@ -29,7 +29,7 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-    background-image: url(../images/slideshow/NinjaSlide.jpg);
+    background-image: url(../images/slideshow/RadiOcean.gif);
     -webkit-animation-delay: -1.5s;
     -moz-animation-delay: -1.5s;
     -o-animation-delay: -1.5s;
@@ -37,7 +37,7 @@ ul
     animation-delay: -1.5s; 
 }
 .slideshow li:nth-child(2) span { 
-    background-image: url(../images/slideshow/SumoSlide.jpg);
+    background-image: url(../images/slideshow/RadiOcean.gif);
     -webkit-animation-delay: 6s;
     -moz-animation-delay: 6s;
     -o-animation-delay: 6s;
@@ -45,7 +45,7 @@ ul
     animation-delay: 6s; 
 }
 .slideshow li:nth-child(3) span { 
-    background-image: url(../images/slideshow/NinjaSlide.jpg);
+    background-image: url(../images/slideshow/RadiOcean.gif);
     -webkit-animation-delay: 12s;
     -moz-animation-delay: 12s;
     -o-animation-delay: 12s;
@@ -61,7 +61,7 @@ ul
     animation-delay: 18s; 
 }
 .slideshow li:nth-child(5) span { 
-    background-image: url(../images/slideshow/NinjaSlide.jpg);
+    background-image: url(../images/slideshow/RadiOcean.gif);
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
@@ -69,7 +69,7 @@ ul
     animation-delay: 24s; 
 }
 .slideshow li:nth-child(6) span { 
-    background-image: url(../images/slideshow/SumoSlide.jpg);
+    background-image: url(../images/slideshow/RadiOcean.gif);
     -webkit-animation-delay: 30s;
     -moz-animation-delay: 30s;
     -o-animation-delay: 30s;
