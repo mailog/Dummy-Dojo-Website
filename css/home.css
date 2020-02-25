@@ -34,6 +34,7 @@ body
 	border-bottom-style: solid;
 	border-bottom-color: #F15F78;
 	border-bottom-width: 2px;
+	padding: 1% auto;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/NinjaSlide.jpg);
@@ -46,7 +47,6 @@ body
 	height: 100%;
 	background-color: RGB(0,0,0,0.5);
 	background-size: cover;
-	margin: 1% auto;
 }
 
 #app-container
@@ -54,7 +54,6 @@ body
 	position:inline-block;
 	height:25%;
 	width: 80%;
-	margin: 1% auto;
 	padding: 0;
 }
 
