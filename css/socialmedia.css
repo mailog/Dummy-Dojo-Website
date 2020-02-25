@@ -25,6 +25,7 @@ footer
 	cursor: pointer;
 	margin-left: 2.5%;
 	padding: 0;
+	white-space: nowrap;
 	/*border-radius: 4px;
 	box-shadow: 1px 1px 5px 1px #49242F;
 	 -webkit-transition: border-radius .5s, background-color .5s; /* Safari 
