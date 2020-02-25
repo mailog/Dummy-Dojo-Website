@@ -41,7 +41,7 @@ body
 	text-align:center;
 	padding: 0;
 	position:absolute;
-	top: 160%;
+	top: 150%;
 	padding-top: 0%;
 	padding-bottom: 3%;
 }
@@ -68,7 +68,7 @@ a:hover
 	text-decoration:none;
 }
 
-#submit
+/*#submit
 {
 	color:#F15F78;
 	border:#F15F78;
@@ -86,16 +86,14 @@ a:hover
 	box-shadow: 1px 1px 5px 1px #49242F;
 	-webkit-transition: color .5s, border-radius .5s, background-color .5s; /* Safari */
   	transition: color .5s, border-radius .5s, background-color .5s;
-}
-
-/*#submit:hover
-{
-	color: white;
-	border-radius: 50px;
-	border-width: 2px;
-	font-size:15px;
-	background-color: #F9768C;
 }*/
+
+#submit:hover
+{
+	border-radius: 50px;
+	background-color: #F9768C;
+	box-shadow: 1px 1px 5px 1px #49242F;
+}
 
 h1
 {
