@@ -83,6 +83,11 @@ body
 	border-bottom-style: solid;
 	border-bottom-color: #F15F78;
 	border-bottom-width: 2px;
+	background-color: #4D4D4D;
+    background-size: auto 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-image: url(../images/slideshow/NinjaSlide.jpg);
 }
 
 #app-container
