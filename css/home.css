@@ -94,7 +94,7 @@ body
 	height: 100%;
 	background-color: RGB(0,0,0,0.5);
 	background-size: 100% 100%;
-	padding-bottom: 1%;
+	padding: 1% 0;
 }
 
 input
