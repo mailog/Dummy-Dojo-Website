@@ -75,7 +75,7 @@ ul
     -webkit-animation-timing-function: ease-in; }
     5% { opacity: 1;
          -webkit-animation-timing-function: ease-out; }
-    90% { opacity: 1 }
+    10% { opacity: 1 }
     100% { opacity: 0 }
 }
 @-moz-keyframes imageAnimation { 
@@ -83,7 +83,7 @@ ul
     -moz-animation-timing-function: ease-in; }
     5% { opacity: 1;
          -moz-animation-timing-function: ease-out; }
-    90% { opacity: 1 }
+    10% { opacity: 1 }
     100% { opacity: 0 }
 }
 @-o-keyframes imageAnimation { 
@@ -91,7 +91,7 @@ ul
     -o-animation-timing-function: ease-in; }
     5% { opacity: 1;
          -o-animation-timing-function: ease-out; }
-    90% { opacity: 1 }
+    10% { opacity: 1 }
     100% { opacity: 0 }
 }
 @-ms-keyframes imageAnimation { 
@@ -99,7 +99,7 @@ ul
     -ms-animation-timing-function: ease-in; }
     5% { opacity: 1;
          -ms-animation-timing-function: ease-out; }
-    90% { opacity: 1 }
+    10% { opacity: 1 }
     100% { opacity: 0 }
 }
 @keyframes imageAnimation { 
@@ -107,7 +107,7 @@ ul
     animation-timing-function: ease-in; }
     5% { opacity: 1;
          animation-timing-function: ease-out; }
-    90% { opacity: 1 }
+    10% { opacity: 1 }
     100% { opacity: 0 }
 }
 
