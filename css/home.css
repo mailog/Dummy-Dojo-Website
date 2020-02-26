@@ -98,9 +98,9 @@ textarea
 {
 	margin: 0 auto;
 	width: 30%;
-	border:#F15F78;
+	border-color: #C0C0C0 #F15F78 #F15F78 #F15F78;
 	border-style: solid;
-	border-width: 0 3px 3px 3px;
+	border-width: 1px 3px 3px 3px;
 	border-radius: 4px;
 }
 
@@ -192,24 +192,24 @@ a
 
 #name
 {
-	border:#F15F78;
+	border-color: #F15F78 #F15F78 #C0C0C0 #F15F78;
 	border-style: solid;
-	border-width: 3px 3px 0 3px;
+	border-width: 3px 3px 1px 3px;
 	border-radius: 4px;
 }
 
 #email
 {
-	border:#F15F78;
+	border-color: #C0C0C0 #F15F78 #C0C0C0 #F15F78;
 	border-style: solid;
-	border-width: 0 3px 0 3px;
+	border-width: 1px 3px 1px 3px;
 	border-radius: 4px;	
 }
 
 #subject
 {
-	border:#F15F78;
+	border-color: #C0C0C0 #F15F78 #C0C0C0 #F15F78;
 	border-style: solid;
-	border-width: 0 3px 0 3px;
+	border-width: 1px 3px 1px 3px;
 	border-radius: 4px;
 }
