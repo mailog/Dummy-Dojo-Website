@@ -70,15 +70,15 @@ body
 .gametitle
 {
 	display: block;
-	width: 100%;
-	height: auto;
+	height: 25%;
+	width: auto;
 }
 
 .gameicon
 {
 	display: block;
-	width: 100%;
-	height: auto;
+	height: 50%;
+	width: auto;
 }
 
 .gamelink
@@ -88,8 +88,8 @@ body
 
 .linkimg
 {
-	width: 100%;
-	height: auto;
+	height: 50%;
+	width: auto;
 }
 
 
