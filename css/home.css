@@ -62,7 +62,7 @@ body
 {
 	white-space: nowrap;
 	display: inline-block;
-	width: 18%;
+	width: 15%;
 	height: 100%;
 	margin: 0 1%;
 }
@@ -88,7 +88,7 @@ body
 
 .linkimg
 {
-	height: 50%;
+	height: 25%;
 	width: auto;
 }
 
