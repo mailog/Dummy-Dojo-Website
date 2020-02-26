@@ -98,6 +98,10 @@ textarea
 {
 	margin: 0 auto;
 	width: 45%;
+	border:#F15F78;
+	border-style: solid;
+	border-width: 0 3px 3px 3px;
+	border-radius: 4px;
 }
 
 #emailcontent
@@ -124,7 +128,6 @@ a:hover
 	font-size: 2vw;
 	cursor:pointer;
 	margin: 1% auto;
-	
 	box-shadow: 1px 1px 5px 1px #49242F;
 	-webkit-transition: color .5s, border-radius .5s, background-color .5s; /* Safari */
   	transition: color .5s, border-radius .5s, background-color .5s;
@@ -185,4 +188,28 @@ a
 .jobtitles
 {
 	font-size: 1vw;
+}
+
+#name
+{
+	border:#F15F78;
+	border-style: solid;
+	border-width: 3px 3px 0 3px;
+	border-radius: 4px;
+}
+
+#email
+{
+	border:#F15F78;
+	border-style: solid;
+	border-width: 0 3px 0 3px;
+	border-radius: 4px;	
+}
+
+#subject
+{
+	border:#F15F78;
+	border-style: solid;
+	border-width: 0 3px 0 3px;
+	border-radius: 4px;
 }
