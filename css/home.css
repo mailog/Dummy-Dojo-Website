@@ -50,7 +50,7 @@ body
 }
 
 
-#app-container
+#games-container
 {
 	position:inline-block;
 	height:25%;
@@ -58,13 +58,38 @@ body
 	margin: 0 auto;
 }
 
-.appicon
+.game
 {
 	white-space: nowrap;
 	position: inline-block;
 	width: 18%;
+	height: 100%;
+	margin: 0 1%;	
+}
+
+.gametitle
+{
+	position: block;
+	width: 100%;
 	height: auto;
-	margin: 0 1%;
+}
+
+.gameicon
+{
+	position: block;
+	width: 100%;
+	height: auto;
+}
+
+.gamelink
+{
+	position: inline-block;
+}
+
+.linkimg
+{
+	width: 100%;
+	height: auto;
 }
 
 
