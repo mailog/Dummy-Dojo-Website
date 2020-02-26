@@ -15,11 +15,11 @@
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 36s linear infinite 0s;
-    -moz-animation: imageAnimation 36s linear infinite 0s;
-    -o-animation: imageAnimation 36s linear infinite 0s;
-    -ms-animation: imageAnimation 36s linear infinite 0s;
-    animation: imageAnimation 36s linear infinite 0s; 
+    -webkit-animation: imageAnimation 30s linear infinite 0s;
+    -moz-animation: imageAnimation 30s linear infinite 0s;
+    -o-animation: imageAnimation 30s linear infinite 0s;
+    -ms-animation: imageAnimation 30s linear infinite 0s;
+    animation: imageAnimation 30s linear infinite 0s; 
 }
 
 ul
@@ -68,15 +68,6 @@ ul
     -ms-animation-delay: 24s;
     animation-delay: 24s; 
 }
-.slideshow li:nth-child(6) span { 
-    background-image: url(../images/slideshow/RadiOcean.gif);
-    -webkit-animation-delay: 30s;
-    -moz-animation-delay: 30s;
-    -o-animation-delay: 30s;
-    -ms-animation-delay: 30s;
-    animation-delay: 30s; 
-}
-
 
 /* Animation for the slideshow images */
 @-webkit-keyframes imageAnimation { 
