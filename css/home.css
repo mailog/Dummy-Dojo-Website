@@ -83,13 +83,15 @@ body
 
 .gamelink
 {
-	display: inline-block;
+	display: block;
+	height: 25%;
+	width: auto;
 }
 
 .linkimg
 {
-	height: 25%;
-	width: auto;
+	height: 100%;
+	width: 100%;
 }
 
 
