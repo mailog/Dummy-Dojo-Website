@@ -8,7 +8,7 @@
   
   .game
   {
-    display: block;
+    display: inline;
     width: 33%;
     height: 50%;
   }
