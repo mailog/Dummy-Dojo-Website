@@ -52,4 +52,14 @@
   {
     font-size: 1.75vw;
   }  
+  
+  input
+  {
+    width: 75%; 
+  }
+  
+  textarea
+  {
+    width: 75%;
+  }
 }
