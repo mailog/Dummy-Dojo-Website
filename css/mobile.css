@@ -67,4 +67,10 @@
   {
     width: 27.5%; 
   }
+  
+  #submit
+  {
+	  width: 16vw;
+    height: 6vw; 
+  }
 }
