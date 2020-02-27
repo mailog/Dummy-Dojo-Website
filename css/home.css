@@ -70,31 +70,32 @@ body
 .gametitle
 {
 	display: block;
-	height: 25%;
-	width: auto;
+	width: 100%;
+	height: auto;
 	margin: 0 auto;
 }
 
 .gameicon
 {
 	display: block;
-	height: 50%;
-	width: auto;
+	width: 100%;
+	height: auto;
 	margin: 0 auto;
 }
 
 .gamelink
 {
+	background-color: transparent;
 	display: block;
-	height: 25%;
-	width: auto;
+	width: 100%;
+	height: auto;
 	margin: 0 auto;
 }
 
 .linkimg
 {
 	height: 100%;
-	width: 100%;
+	width: auto;
 }
 
 
