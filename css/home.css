@@ -62,8 +62,9 @@ body
 .game
 {
 	display: inline-block;
-	width: 20%;
+	width: 19%;
 	height: 80%;
+	margin: 0;
 }
 
 .gametitle
