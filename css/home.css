@@ -266,5 +266,8 @@ a
 #copyright
 {
 	white-space: nowrap;
-	color: #F15F78;
+	color: white;
+	text-shadow: 0px 0px 7px #F15F78;
+	margin: 0;
+	padding: 0;
 }
