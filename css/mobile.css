@@ -8,8 +8,9 @@
   
   .home-icon
   {
-    display: inline-block;
-     margin: 0 auto; 
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
   }
   
   .game
