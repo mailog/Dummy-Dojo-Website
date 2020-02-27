@@ -2,6 +2,11 @@
 Desktop values
 ******/
 
+@font-face {
+  font-family: pixelmix;
+  src: url(fonts/pixelmix.ttf) format('truetype');
+}
+
 body
 {
 	margin:0;
@@ -76,6 +81,12 @@ body
 	cursor: pointer;
 	font-family: pixelmix;
 	font-size: 2vw;
+}
+
+.toolbar-button img
+{
+	height: 100%;
+	width: auto;
 }
 
 #twitter:hover
