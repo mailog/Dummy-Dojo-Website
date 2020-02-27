@@ -133,7 +133,6 @@ textarea
 	border-color: #F15F78;
 	border-width: 1px 3px 3px 3px;
 	border-style: solid;
-	border-radius: 4px;
 }
 
 #emailcontent
@@ -227,7 +226,6 @@ a
 	border-color: #F15F78;
 	border-width: 3px 3px 1px 3px;
 	border-style: solid;
-	border-radius: 4px;
 }
 
 #email
@@ -235,7 +233,6 @@ a
 	border-color: #F15F78;
 	border-width: 1px 3px 1px 3px;
 	border-style: solid;
-	border-radius: 4px;	
 }
 
 #subject
@@ -243,5 +240,4 @@ a
 	border-color: #F15F78;
 	border-width: 1px 3px 1px 3px;
 	border-style: solid;
-	border-radius: 4px;
 }
