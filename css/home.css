@@ -162,12 +162,16 @@ body
 	height: 100%;
 	width: 30%;
 	display:inline-block;
+	padding: 0;
+	margin: 0 1%;
 }
 
 .storeimg
 {
 	height: 100%;
 	width: auto;
+	margin: 0;
+	white-space: nowrap;
 }
 
 .android:hover
