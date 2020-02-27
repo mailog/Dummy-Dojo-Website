@@ -6,19 +6,15 @@
     
   }
   
+  .toolbar-buttons
+  {
+    margin-left: 75%;
+    height: 10vw;
+  }
+  
   .toolbar-button
   {
     height: 100%;
-  }
-  
-  #twitter
-  {
-    float: left;
-  }
-  
-  #instagram
-  {
-    float: right;
   }
   
   .home-icon
