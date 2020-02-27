@@ -169,6 +169,20 @@ body
 	width: auto;
 }
 
+.android
+{
+	content:url("/images/PinkAndroid.png");
+}
+
+.apple
+{
+	content:url("/images/PinkApple.png");	
+}
+
+.itch
+{
+	content:url("/images/PinkItch.png");	
+}
 
 /***************/
 /*Team Section*/
