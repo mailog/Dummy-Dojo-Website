@@ -147,19 +147,25 @@ body
 	margin: 0 auto;
 }
 
-.gamelink
+.storelinks
 {
-	background-color: transparent;
-	border:none;
 	display: block;
 	height: 25%;
 	width: 100%;
-	margin: 0 auto;
 }
 
-.linkimg
+.storelink
 {
-	height: 80%;
+	background-color: transparent;
+	border:none;
+	margin: 0 2%;
+	width:25%;
+	display:inline-block;
+}
+
+.storeimg
+{
+	height: 100%;
 	width: auto;
 }
 
