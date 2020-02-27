@@ -62,7 +62,6 @@ body
 
 .game
 {
-	white-space: nowrap;
 	display: inline-block;
 	width: 20%;
 	height: 80%;
