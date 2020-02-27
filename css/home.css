@@ -150,8 +150,8 @@ body
 .storelinks
 {
 	display: block;
-	height: 35%;
-	width: 50%;
+	height: 30%;
+	width: 60%;
 	margin: 0 auto;
 }
 
@@ -159,14 +159,15 @@ body
 {
 	background-color: transparent;
 	border:none;
-	width:33%;
+	width:30%;
+	height: 100%;
 	display:inline-block;
 }
 
 .storeimg
 {
+	height: 100%;
 	width: 100%;
-	height: auto;
 }
 
 .android:hover
