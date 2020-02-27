@@ -8,13 +8,14 @@
   
   #toolbar-buttons
   {
-    margin-left: 75%;
+    margin-left: 80%;
     width: 20%;
     height: 12vw;
   }
   
   .toolbar-button
   {
+	  display:block;
     height: 100%;
   }
 
