@@ -8,9 +8,10 @@
   
   .game
   {
-    display: inline;
+    position: relative;
+    display: inline-block;
     width: 33%;
-    height: 50%;
+    height: 40%;
   }
   
   #game-content
