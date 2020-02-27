@@ -251,12 +251,14 @@ a
 
 #copyright-container
 {
+	white-space: nowrap;
 	width: 100%;
 	height: auto;
-	background-color: white;
+	background-color: RGB(255,255,255,0.5);
 }
 
 #copyright
 {
+	white-space: nowrap;
 	font-color: #F15F78;
 }
