@@ -6,6 +6,21 @@
     
   }
   
+  .toolbar-button
+  {
+    height: 100%;
+  }
+  
+  #twitter
+  {
+    float: left;
+  }
+  
+  #instagram
+  {
+    float: right;
+  }
+  
   .home-icon
   {
     width: 50%;
