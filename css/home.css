@@ -28,6 +28,7 @@ body
 	height: 100%;
 	background-color: RGB(0,0,0,0.5);
 	background-size: 100% 100%;
+	padding: 1% 0;
 }
 
 /***************/
@@ -47,13 +48,6 @@ body
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/NinjaSlide.jpg);
 }
-
-#games-content .filter
-{
-	padding: 1% 0;
-}
-
-
 #games-container
 {
 	display:block;
@@ -121,13 +115,6 @@ body
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/SumoSlide.jpg);
-}
-
-
-#games-content .filter
-{
-	padding-top: 1%;
-	padding-bottom: 0%;
 }
 
 input
