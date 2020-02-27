@@ -160,14 +160,14 @@ body
 	background-color: transparent;
 	border:none;
 	height: 100%;
-	width: auto;
+	width: 30%;
 	display:inline-block;
 }
 
 .storeimg
 {
 	height: 100%;
-	width: 100%;
+	width: auto;
 }
 
 .android:hover
