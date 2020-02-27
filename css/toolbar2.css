@@ -43,19 +43,13 @@
 
 .home-icon
 {
-	background-color: rgba(255,255,255,0);	
 	border:none;
 	float:left;
 	padding:5px;
-	cursor:pointer;
+	width:15%;
+	height:auto;
 }
 
-.home-icon img
-{
-	width:auto;
-	height:6vw;
-	background-color: rgba(255,255,255,0);	
-}
 
 /*.home-icon:hover
 {
