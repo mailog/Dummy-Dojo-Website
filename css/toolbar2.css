@@ -35,6 +35,12 @@
 	font-size: 2vw;
 }
 
+.toolbar-button img
+{
+	height: 100%;
+	width: auto;
+}
+
 .home-icon
 {
 	background-color: rgba(255,255,255,0);	
@@ -100,9 +106,4 @@
 	text-shadow: 0 0 0 white;
 	-webkit-transition: text-shadow .4s, color .2s; /* Safari */
   	transition: text-shadow .4s, color .2s;
-}
-
-.toolbar-button p
-{
-	
 }
