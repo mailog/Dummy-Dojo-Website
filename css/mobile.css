@@ -6,6 +6,11 @@
     
   }
   
+  .home-icon
+  {
+     margin: 0 auto; 
+  }
+  
   .game
   {
     position: relative;
@@ -14,14 +19,23 @@
     height: 40%;
   }
   
-  #game-content
+  .content-header
   {
-    
+    font-size: 4vw;
   }
   
-  #about-content
+  #copyright
   {
-    
+     font-size: 1.5vw; 
   }
   
+  .name
+  {
+    font-size: 3vw;
+  }
+  
+  .jobtitle
+  {
+    font-size: 1.75vw;
+  }  
 }
