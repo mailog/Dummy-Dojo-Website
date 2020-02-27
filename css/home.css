@@ -119,6 +119,11 @@ body
     background-image: url(../images/slideshow/SumoSlide.jpg);
 }
 
+#about-content .filter
+{
+	padding-bottom: 0;
+}
+
 input
 {
 	margin: 0 auto;
@@ -190,7 +195,7 @@ h2
 	border-color:#F15F78;
 	border-radius: 10px;
 	border-width: 4px;*/
-	padding: 1% 1% 1% 1%;
+	padding: 1%;
 	background-color: transparent;
 	color: white;
 	margin: 5%% 1%;
@@ -242,4 +247,16 @@ a
 	border-color: #F15F78;
 	border-width: 1px 3px 1px 3px;
 	border-style: solid;
+}
+
+#copyright-container
+{
+	width: 100%;
+	height: auto;
+	background-color: white;
+}
+
+#copyright
+{
+	color:	#F15F78;
 }
