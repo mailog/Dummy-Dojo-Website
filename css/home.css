@@ -136,7 +136,7 @@ body
 	display: block;
 	height: auto;
 	width: 125%;
-	margin-left: 12.5%;
+	margin-left: -12.5%;
 }
 
 .gameicon
@@ -165,8 +165,8 @@ body
 
 .storeimg
 {
-	height: 100%;
-	width: auto;
+	width: 100%;
+	height: auto;
 }
 
 .android
