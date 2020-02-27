@@ -165,6 +165,7 @@ a:hover
 
 #submit:hover
 {
+	color:white;
 	border-radius: 50px;
 	background-color: #F9768C;
 	box-shadow: 1px 1px 5px 1px #49242F;
