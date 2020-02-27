@@ -169,17 +169,17 @@ body
 	height: auto;
 }
 
-.android
+.android:hover
 {
 	content:url("/images/PinkAndroid.png");
 }
 
-.apple
+.apple:hover
 {
 	content:url("/images/PinkApple.png");	
 }
 
-.itch
+.itch:hover
 {
 	content:url("/images/PinkItch.png");	
 }
