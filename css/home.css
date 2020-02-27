@@ -51,6 +51,7 @@ body
 	height: 15%;
 	background-color: transparent;/*rgba(0,0,0,0.8);*/
 	margin-top: 0;
+	z-index: 3;
 }
 
 #toolbar-buttons
