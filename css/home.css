@@ -75,12 +75,10 @@ body
 {
 	border:none;
 	background-color: rgba(255,255,255,0);
-	width: 50%;
-	height: 50%;
+	width: 45%;
+	height: auto;
 	margin:0;
 	cursor: pointer;
-	font-family: pixelmix;
-	font-size: 2vw;
 }
 
 .toolbar-button img
