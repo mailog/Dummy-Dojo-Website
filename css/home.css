@@ -84,8 +84,8 @@ body
 
 .toolbar-button img
 {
-	width: 95%;
-	height: auto;
+	width: auto;
+	height: 100%;
 }
 
 #twitter:hover
