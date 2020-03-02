@@ -169,9 +169,9 @@ body
 
 .storeimg
 {
-	width: auto;
-	height: 100%;
-	margin: 0;
+	width: 75%;
+	height: auto;
+	margin: 0 auto;
 	white-space: nowrap;
 }
 
