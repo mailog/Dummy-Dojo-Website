@@ -49,12 +49,35 @@
     width: 30%;
     height: 40%;
   }
-	
+	.gametitle
+{
+	display: block;
+	height: 40%;
+	width: auto;
+	margin-left: -12.5%;
+}
 	.gameicon
 	{
 		height: 40%;
 		width: auto;
 	}
+	
+	.storelinks
+	{
+		width: 90%;
+	}
+	
+  .storelink
+  {
+    width: 27.5%; 
+  }
+	
+.storeimg
+{
+	width: auto;
+	height: 100%;
+}
+  
   
   .content-header
   {
@@ -84,16 +107,6 @@
   textarea
   {
     width: 60%;
-  }
-  
-	.storelinks
-	{
-		width: 90%;
-	}
-	
-  .storelink
-  {
-    width: 27.5%; 
   }
   
   #submit
