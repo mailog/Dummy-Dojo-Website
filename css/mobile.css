@@ -49,6 +49,12 @@
     width: 30%;
     height: 40%;
   }
+	
+	.gameicon
+	{
+		height: 40%;
+		width: auto;
+	}
   
   .content-header
   {
