@@ -142,8 +142,8 @@ body
 .gameicon
 {
 	display: block;
-	height: 50%;
-	width: auto;
+	height: auto;
+	width: 100%;
 	margin: 0 auto;
 }
 
