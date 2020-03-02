@@ -160,16 +160,16 @@ body
 	background-color: transparent;
 	border:none;
 	height: 100%;
-	width: 29%;
+	width: 33%;
 	display:inline-block;
 	padding: 0;
 	white-space: nowrap;
-	margin: 0 1%;
+	margin: 0;
 }
 
 .storeimg
 {
-	width: 75%;
+	width: 100%;
 	height: auto;
 	margin: 0 auto;
 	white-space: nowrap;
