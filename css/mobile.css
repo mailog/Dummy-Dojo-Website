@@ -90,6 +90,13 @@
     font-size: 3vw;
   }
   
+.profile-pic
+{
+	border-radius: 15px;
+	width: 90%;
+	height: auto;
+}
+	
   .jobtitles
   {
     font-size: 1.75vw;
