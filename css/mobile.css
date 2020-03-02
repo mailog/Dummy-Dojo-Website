@@ -99,12 +99,13 @@
 	
   .jobtitles
   {
-    font-size: 1.75vw;
+    font-size: 2.25vw;
   }  
   
   input
   {
     width: 60%; 
+	font-size: 2vw;
   }
   
   textarea
