@@ -57,8 +57,14 @@
 }
 	.gameicon
 	{
-		height: 40%;
+		height: 100%;
 		width: auto;
+	}
+	
+	.storelinks
+	{
+		width: 75%;
+		margin: 0 auto;
 	}
 	
 .storeimg
