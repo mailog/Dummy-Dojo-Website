@@ -29,7 +29,6 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-		background-position: -50% 0%;
     background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 0s;
     -moz-animation-delay: 0s;
@@ -38,7 +37,6 @@ ul
     animation-delay: 0s; 
 }
 .slideshow li:nth-child(2) span { 
-		background-position: -50% 0%;
     background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 10s;
     -moz-animation-delay: 10s;
