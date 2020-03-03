@@ -3,7 +3,7 @@
     height: 90%;
     position: absolute;
     top: 0vw;
-    left: 0px;
+    left: 0vw;
     color: transparent;
 	border-bottom-style: solid;
 	border-bottom-color: #F15F78;
@@ -29,8 +29,7 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-	position: absolute:
-		left: -50%;
+		background-position: -50% 0%;
     background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 0s;
     -moz-animation-delay: 0s;
