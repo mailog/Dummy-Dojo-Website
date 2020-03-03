@@ -37,7 +37,7 @@ ul
     animation-delay: -1.5s; 
 }
 .slideshow li:nth-child(2) span { 
-    background-image: url(../images/slideshow/RadiOcean.gif);
+    background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 4.5s;
     -moz-animation-delay: 4.5s;
     -o-animation-delay: 4.5s;
@@ -45,7 +45,7 @@ ul
     animation-delay: 4.5s; 
 }
 .slideshow li:nth-child(3) span { 
-    background-image: url(../images/slideshow/RadiOcean.gif);
+    background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 10.5s;
     -moz-animation-delay: 10.5s;
     -o-animation-delay: 10.5s;
@@ -53,7 +53,7 @@ ul
     animation-delay: 10.5s; 
 }
 .slideshow li:nth-child(4) span { 
-    background-image: url(../images/slideshow/RadiOcean.gif);
+    background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 16.5s;
     -moz-animation-delay: 16.5s;
     -o-animation-delay: 16.5s;
@@ -61,7 +61,7 @@ ul
     animation-delay: 16.5s; 
 }
 .slideshow li:nth-child(5) span { 
-    background-image: url(../images/slideshow/RadiOcean.gif);
+    background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 22.5s;
     -moz-animation-delay: 22.5s;
     -o-animation-delay: 22.5s;
