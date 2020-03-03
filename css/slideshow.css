@@ -29,6 +29,8 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
+	position: absolute:
+		left: -50%;
     background-image: url(../images/DoughjoBG.jpg);
     -webkit-animation-delay: 0s;
     -moz-animation-delay: 0s;
