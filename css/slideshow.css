@@ -118,6 +118,10 @@ ul
 #donatsu
 	{
 		position: absolute;
-		top:60%;
-		left: 60%;
+		top:50%;
+		left: 50%;
+		height: 9%;
+		width: auto;
 	}
+	
+
