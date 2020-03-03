@@ -113,3 +113,10 @@ ul
 @media screen and (max-width: 600px) { 
     -slideshow li div h3 { font-size: 80px }
 }
+
+	
+#donatsu
+	{
+		top:60%;
+		left: 60%;
+	}
