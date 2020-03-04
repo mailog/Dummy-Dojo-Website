@@ -139,9 +139,9 @@ ul
 #radioceantitle
 {
 	height: 25vh;
-	width: calc(25vh * 0.6);
+	width: calc(25vh * 1.6667);
 	top: 40%;
-	left: calc(50% - (25vh * 0.6 * 0.5));
+	left: calc(50% - (25vh * 1.6667 * 0.5));
 }
 	
 	
