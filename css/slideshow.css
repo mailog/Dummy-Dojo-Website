@@ -37,7 +37,7 @@ ul
     animation-delay: 0s; 
 }
 .slideshow li:nth-child(2) span { 
-    background-image: url(../images/DoughjoBG.jpg);
+    background-image: url(../images/RadiOceanBG.jpg);
     -webkit-animation-delay: 10s;
     -moz-animation-delay: 10s;
     -o-animation-delay: 10s;
