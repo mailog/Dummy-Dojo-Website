@@ -73,32 +73,32 @@ ul
 /* Animation for the slideshow images */
 @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;}
-    40% { opacity: 1;}
-    60% { opacity: 1;}
+    10% { opacity: 1;}
+    90% { opacity: 1;}
     100% { opacity: 0;}
 }
 @-moz-keyframes imageAnimation { 
     0% { opacity: 0;}
-    40% { opacity: 1;}
-    60% { opacity: 1;}
+    10% { opacity: 1;}
+    90% { opacity: 1;}
     100% { opacity: 0;}
 }
 @-o-keyframes imageAnimation { 
     0% { opacity: 0;}
-    40% { opacity: 1;}
-    60% { opacity: 1;}
+    10% { opacity: 1;}
+    90% { opacity: 1;}
     100% { opacity: 0;}
 }
 @-ms-keyframes imageAnimation { 
     0% { opacity: 0;}
-    40% { opacity: 1;}
-    60% { opacity: 1;}
+    10% { opacity: 1;}
+    90% { opacity: 1;}
     100% { opacity: 0;}
 }
-@keyframes imageAnimation { 
+@keyframes imageAnimation {
     0% { opacity: 0;}
-    40% { opacity: 1;}
-    60% { opacity: 1;}
+    10% { opacity: 1;}
+    90% { opacity: 1;}
     100% { opacity: 0;}
 }
 
