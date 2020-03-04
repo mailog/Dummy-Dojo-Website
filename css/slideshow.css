@@ -15,11 +15,11 @@
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 10s linear infinite 0s;
-    -moz-animation: imageAnimation 10s linear infinite 0s;
-    -o-animation: imageAnimation 10s linear infinite 0s;
-    -ms-animation: imageAnimation 10s linear infinite 0s;
-    animation: imageAnimation 10s linear infinite 0s; 
+    -webkit-animation: imageAnimation 20s linear infinite 0s;
+    -moz-animation: imageAnimation 20s linear infinite 0s;
+    -o-animation: imageAnimation 20s linear infinite 0s;
+    -ms-animation: imageAnimation 20s linear infinite 0s;
+    animation: imageAnimation 20s linear infinite 0s; 
 }
 
 ul
@@ -73,32 +73,32 @@ ul
 /* Animation for the slideshow images */
 @-webkit-keyframes imageAnimation { 
     0% { opacity: 0;}
-    10% { opacity: 1;}
-    90% { opacity: 1;}
+    40% { opacity: 1;}
+    60% { opacity: 1;}
     100% { opacity: 0;}
 }
 @-moz-keyframes imageAnimation { 
     0% { opacity: 0;}
-    10% { opacity: 1;}
-    90% { opacity: 1;}
+    40% { opacity: 1;}
+    60% { opacity: 1;}
     100% { opacity: 0;}
 }
 @-o-keyframes imageAnimation { 
     0% { opacity: 0;}
-    10% { opacity: 1;}
-    90% { opacity: 1;}
+    40% { opacity: 1;}
+    60% { opacity: 1;}
     100% { opacity: 0;}
 }
 @-ms-keyframes imageAnimation { 
     0% { opacity: 0;}
-    10% { opacity: 1;}
-    90% { opacity: 1;}
+    40% { opacity: 1;}
+    60% { opacity: 1;}
     100% { opacity: 0;}
 }
 @keyframes imageAnimation { 
     0% { opacity: 0;}
-    10% { opacity: 1;}
-    90% { opacity: 1;}
+    40% { opacity: 1;}
+    60% { opacity: 1;}
     100% { opacity: 0;}
 }
 
