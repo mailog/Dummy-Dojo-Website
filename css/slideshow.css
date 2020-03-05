@@ -123,10 +123,14 @@ ul
 .foregroundimg
 {
 	position: absolute;
+}
+
+#donatsu
+{
+	height: 12.2222vh;
+	width: 12.2222vh;
 	top: 50%;
-	left: 50%;
-	height: 12.22%;
-	width: auto;
+	left: calc(50% - (12.2222vh * 0.5));
 }
 	
 #radioceanfish
