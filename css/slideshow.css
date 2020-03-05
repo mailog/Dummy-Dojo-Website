@@ -136,9 +136,9 @@ ul
 #radioceanfish
 {
 	height: 12.5vh;
-	width: calc(1.5vh * 0.66667);
+	width: calc(12.5vh * 0.66667);
 	top: 50%;
-	left: calc(50% - (1.5vh * 0.66667 * 0.5));
+	left: calc(50% - (12.5vh * 0.66667 * 0.5));
 }
 
 #radioceantitle
