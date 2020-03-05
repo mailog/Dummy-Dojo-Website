@@ -184,6 +184,20 @@ body
 	white-space: nowrap;
 }
 
+.googleplay
+{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.googleplay img
+{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
 .android:hover
 {
 	content:url("/images/PinkAndroid.png");
