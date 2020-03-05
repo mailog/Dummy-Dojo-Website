@@ -9,6 +9,9 @@
 	border-bottom-color: #F15F78;
 	border-bottom-width: 1px;
 	background-color: #4D4D4D;
+		-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
 	background-position : center;
