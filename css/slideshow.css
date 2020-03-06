@@ -5,9 +5,12 @@
     top: 0vw;
     left: 0vw;
     color: transparent;
-	border-bottom-style: solid;
+	/*border-bottom-style: solid;
 	border-bottom-color: #F15F78;
-	border-bottom-width: 1px;
+	border-bottom-width: 1px;*/
+		
+	box-shadow: 0px 7px 7px -7px #F15F78;
+		
 	background-color: #4D4D4D;
 		-webkit-background-size: cover;
     -moz-background-size: cover;
