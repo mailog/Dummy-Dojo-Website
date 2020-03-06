@@ -117,9 +117,10 @@ body
 	top: 90%;
 	height: 80%; 
 	width: 100%;
-	border-bottom-style: solid;
+	/*border-bottom-style: solid;
 	border-bottom-color: #F15F78;
-	border-bottom-width: 1px;
+	border-bottom-width: 1px;*/
+	box-shadow: 0px 3px 3px -3px #F15F78;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/NinjaSlide.jpg);
@@ -238,14 +239,14 @@ body
 
 input
 {
-font-size: 1.5vw;
+	font-size: 1.5vw;
 	margin: 0 auto;
 	width: 30%;
 }
 
 textarea
 {
-font-size: 1.5vw;
+	font-size: 1.5vw;
 	margin: 0 auto;
 	width: 30%;
 	border-color: #F15F78;
