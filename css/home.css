@@ -115,7 +115,7 @@ body
 {
 	position: absolute;
 	top: 90%;
-	height: 90%; 
+	height: 80%; 
 	width: 100%;
 	border-bottom-style: solid;
 	border-bottom-color: #F15F78;
@@ -227,7 +227,7 @@ body
 	text-align:center;
 	padding: 0;
 	position:absolute;
-	top: 180%;
+	top: 170%;
 	padding-top: 0%;
 	background-color: #4D4D4D;
     background-size: cover;
