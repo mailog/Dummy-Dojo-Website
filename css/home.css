@@ -124,6 +124,7 @@ body
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/NinjaSlide.jpg);
 }
+
 #games-container
 {
 	display:block;
@@ -135,6 +136,7 @@ body
 .game
 {
 	display: inline-block;
+	vertical-align: top;
 	width: 19%;
 	height: 80%;
 	margin: 0;
