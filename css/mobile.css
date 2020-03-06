@@ -112,6 +112,7 @@
   textarea
   {
     width: 60%;
+	font-size: 2vw;
   }
   
   #submit
