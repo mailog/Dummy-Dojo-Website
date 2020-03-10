@@ -193,14 +193,15 @@ body
 {
 	width: 100%;
 	height: auto;
-	margin: 1% auto;
+	margin: 0 auto;
 }
 
 .gamebadge img
 {
 	width: 100%;
 	height: auto;
-	margin: 1% auto;
+	margin: 0 auto;
+	margin-top: 2%;
 }
 
 .android:hover
