@@ -27,10 +27,16 @@
     animation: imageAnimation 10s linear infinite 0s; 
 }
 
-foreground
+.midground
 {
 	background-size:cover;
 	z-index: 3;
+}
+
+.foreground
+{
+	background-size:cover;
+	z-index: 4;
 }
 
 ul
