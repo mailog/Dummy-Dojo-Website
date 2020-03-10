@@ -63,6 +63,16 @@
 	height: 100%;
 }
 
+#ninjachowdownfg
+{
+    background-image: url(../images/ninjachowdownfg.png);
+}
+
+#ninjachowdownmg
+{
+    background-image: url(../images/ninjachowdownmg.gif);
+}
+
 #radioceanfg
 {
     background-image: url(../images/radioceanfg.png);
@@ -80,7 +90,7 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-    background-image: url(../images/DoughjoBG.jpg);
+    background-image: url(../images/ninjachowdownbg.jpeg);
     -webkit-animation-delay: 0s;
     -moz-animation-delay: 0s;
     -o-animation-delay: 0s;
