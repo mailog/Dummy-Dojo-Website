@@ -27,6 +27,12 @@
     animation: imageAnimation 10s linear infinite 0s; 
 }
 
+foreground
+{
+	background-size:cover;
+	z-index: 3;
+}
+
 ul
 {
     list-style:none;
