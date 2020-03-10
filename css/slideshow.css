@@ -29,6 +29,11 @@
 
 .midground
 {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
 		-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -42,6 +47,11 @@
 
 .foreground
 {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
 		-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
