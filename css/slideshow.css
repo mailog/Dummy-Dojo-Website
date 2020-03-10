@@ -29,13 +29,29 @@
 
 .midground
 {
-	background-size:cover;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+		-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-position : center;
 	z-index: 3;
 }
 
 .foreground
 {
-	background-size:cover;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+		-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-position : center;
 	z-index: 4;
 }
 
