@@ -65,12 +65,13 @@
 
 #ninjachowdownfg
 {
-    background-image: url(../images/ninjachowdownfg.png);
+    background-image: url(../images/ninjachowdownfg2.png);
 }
 
 #ninjachowdownmg
 {
-    background-image: url(../images/ninjachowdownmg.gif);
+    background-image: url(../images/ninjachowdownmg2.webp);
+    background-image: url(../images/ninjachowdownmg2.gif);
 }
 
 #radioceanfg
@@ -90,7 +91,7 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-    background-image: url(../images/ninjachowdownbg.jpeg);
+    background-image: url(../images/ninjachowdownbg2.jpeg);
     -webkit-animation-delay: 0s;
     -moz-animation-delay: 0s;
     -o-animation-delay: 0s;
