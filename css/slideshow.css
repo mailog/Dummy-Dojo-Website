@@ -65,7 +65,7 @@
 
 #ninjachowdownfg
 {
-    background-image: url(../images/ninjachowdownfg2.png);
+    background-image: url(../images/ninjachowdownfg.png);
 }
 
 #ninjachowdownmg1
@@ -101,7 +101,7 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-    background-image: url(../images/ninjachowdownbg2.jpeg);
+    background-image: url(../images/ninjachowdownbg.jpeg);
     -webkit-animation-delay: 0s;
     -moz-animation-delay: 0s;
     -o-animation-delay: 0s;
