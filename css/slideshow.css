@@ -98,16 +98,19 @@
 #turtledaddyfg1
 {
     background-image: url(../images/turtledaddyfg1.gif);
+	z-index: 4;
 }
 
 #turtledaddyfg2
 {
     background-image: url(../images/turtledaddyfg2.gif);
+	z-index: 4;
 }
 
 #turtledaddymg
 {
     background-image: url(../images/turtledaddymg.gif);
+	z-index: 3;
 }
 
 ul
