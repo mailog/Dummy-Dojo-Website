@@ -20,11 +20,11 @@
     opacity: 0;
     z-index: 2;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 15s linear infinite 0s;
-    -moz-animation: imageAnimation 15s linear infinite 0s;
-    -o-animation: imageAnimation 15s linear infinite 0s;
-    -ms-animation: imageAnimation 15s linear infinite 0s;
-    animation: imageAnimation 15s linear infinite 0s; 
+    -webkit-animation: imageAnimation 5s linear infinite 0s;
+    -moz-animation: imageAnimation 5s linear infinite 0s;
+    -o-animation: imageAnimation 5s linear infinite 0s;
+    -ms-animation: imageAnimation 5s linear infinite 0s;
+    animation: imageAnimation 5s linear infinite 0s; 
 }
 
 .midground
