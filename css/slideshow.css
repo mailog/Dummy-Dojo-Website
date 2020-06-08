@@ -121,19 +121,19 @@ ul
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
     background-image: url(../images/ninjachowdownbg.jpeg);
-    -webkit-animation-delay: 0s;
-    -moz-animation-delay: 0s;
-    -o-animation-delay: 0s;
-    -ms-animation-delay: 0s;
-    animation-delay: 0s; 
+    -webkit-animation-delay: 3.33s;
+    -moz-animation-delay: 3.33s;
+    -o-animation-delay: 3.33s;
+    -ms-animation-delay: 3.33s;
+    animation-delay: 3.33s; 
 }
 .slideshow li:nth-child(2) span { 
     background-image: url(../images/radioceanbg1.jpg);
-    -webkit-animation-delay: 5s;
-    -moz-animation-delay: 5s;
-    -o-animation-delay: 5s;
-    -ms-animation-delay: 5s;
-    animation-delay: 5s; 
+    -webkit-animation-delay: 6.66s;
+    -moz-animation-delay: 6.66s;
+    -o-animation-delay: 6.66s;
+    -ms-animation-delay: 6.66s;
+    animation-delay: 6.66s; 
 }
 
 .slideshow li:nth-child(3) span { 
