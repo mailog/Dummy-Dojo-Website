@@ -29,38 +29,46 @@
 
 .midground
 {
-    width: 100%;
-    height: 90%;
-    position: absolute;
-    top: 0vw;
-    left: 0vw;
-		-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-repeat: no-repeat;
+	width: 100%;
+	height: 90%;
+	position: absolute;
+	top: 0vw;
+	left: 0vw;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-position : center;
 	z-index: 3;
 	width: 100%;
 	height: 100%;
+
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
+
 }
 
 .foreground
 {
-    width: 100%;
-    height: 90%;
-    position: absolute;
-    top: 0vw;
-    left: 0vw;
-		-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-repeat: no-repeat;
+	width: 100%;
+	height: 90%;
+	position: absolute;
+	top: 0vw;
+	left: 0vw;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-position : center;
 	z-index: 5;
 	width: 100%;
 	height: 100%;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
 }
 
 #ninjachowdownfg
@@ -109,7 +117,7 @@
 
 #turtledaddymg
 {
-    background-image: url(../images/turtledaddymg.gif);
+	background-image: url(../images/turtledaddymg.gif);
 	z-index: 3;
 }
 
@@ -120,29 +128,38 @@ ul
 
 /*//////////////////////////////////////images///////////////////////////////////////////*/
 .slideshow li:nth-child(1) span { 
-    background-image: url(../images/ninjachowdownbg.jpeg);
-    -webkit-animation-delay: 0s;
-    -moz-animation-delay: 0s;
-    -o-animation-delay: 0s;
-    -ms-animation-delay: 0s;
-    animation-delay: 0s; 
+	background-image: url(../images/ninjachowdownbg.jpeg);
+	-webkit-animation-delay: 0s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	-ms-animation-delay: 0s;
+	animation-delay: 0s; 
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
 }
 .slideshow li:nth-child(2) span { 
-    background-image: url(../images/radioceanbg1.jpg);
-    -webkit-animation-delay: 5s;
-    -moz-animation-delay: 5s;
-    -o-animation-delay: 5s;
-    -ms-animation-delay: 5s;
-    animation-delay: 5s; 
+	background-image: url(../images/radioceanbg1.jpg);
+	-webkit-animation-delay: 5s;
+	-moz-animation-delay: 5s;
+	-o-animation-delay: 5s;
+	-ms-animation-delay: 5s;
+	animation-delay: 5s; 
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
 }
 
 .slideshow li:nth-child(3) span { 
-    background-image: url(../images/turtledaddybg.png);
-    -webkit-animation-delay: 10s;
-    -moz-animation-delay: 10s;
-    -o-animation-delay: 10s;
-    -ms-animation-delay: 10s;
-    animation-delay: 10s; 
+	background-image: url(../images/turtledaddybg.png);
+	-webkit-animation-delay: 10s;
+	-moz-animation-delay: 10s;
+	-o-animation-delay: 10s;
+	-ms-animation-delay: 10s;
+	animation-delay: 10s; 
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: crisp-edges;
 }
 /*
 .slideshow li:nth-child(3) span { 
