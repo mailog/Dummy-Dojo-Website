@@ -95,16 +95,25 @@ body
 {
 	width: auto;
 	height: 100%;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
 }
 
 #twitter:hover
 {
 	content:url("/images/PinkTwitter.png");
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
 }
 
 #instagram:hover
 {
 	content:url("/images/PinkInsta.png");
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
 }
 
 /***************/
@@ -125,6 +134,9 @@ body
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/NinjaSlide.jpg);
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
 }
 
 #games-container
@@ -238,6 +250,9 @@ body
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/SumoSlide.jpg);
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
 }
 
 input
