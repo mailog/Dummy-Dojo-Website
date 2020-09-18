@@ -133,7 +133,7 @@ body
 	box-shadow: 0px 12px 12px -12px #F15F78;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../images/slideshow/NinjaSlide.jpg);
+    background-image: url(../images/slideshow/bg1.png);
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
@@ -248,7 +248,7 @@ body
 	padding-top: 0%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../images/slideshow/SumoSlide.jpg);
+    background-image: url(../images/slideshow/bg2.png);
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
