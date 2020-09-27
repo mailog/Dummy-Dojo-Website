@@ -116,6 +116,22 @@ body
   image-rendering: crisp-edges;
 }
 
+#twitch:hover
+{
+	content:url("/images/PinkTwitch.png");
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+#discord:hover
+{
+	content:url("/images/PinkDiscord.png");
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
 /***************/
 /*Games Section*/
 /***************/
