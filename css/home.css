@@ -262,6 +262,13 @@ body
 	position:absolute;
 	top: 170%;
 	padding-top: 0%;
+}
+
+#about-bg
+{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/bg2.png);
