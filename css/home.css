@@ -321,16 +321,12 @@ h2
 	font-size: 2vw;
 }
 
-.employee
+.member
 {
-	/*border-style:solid;
-	border-color:#F15F78;
-	border-radius: 10px;
-	border-width: 4px;*/
 	padding: 1%;
 	background-color: transparent;
 	color: white;
-	margin: 5%% 1%;
+	margin: 3% 1%;
 	width: 25%;
 	font-family: pixelmix;
 	display:inline-block;
