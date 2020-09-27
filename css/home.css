@@ -232,6 +232,15 @@ body
 	margin-top: 2%;
 }
 
+.gamebadge:hover img
+{
+	border-style: solid;
+	border-radius: 25px;
+	transition:ease .25s;
+	border-color: #F15F78;
+	border-width: 5px 5px 5px 5px;
+}
+
 .android:hover
 {
 	content:url("/images/PinkAndroid.png");
