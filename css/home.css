@@ -265,9 +265,6 @@ body
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(../images/slideshow/bg2.png);
-  image-rendering: pixelated;
-  image-rendering: -moz-crisp-edges;
-  image-rendering: crisp-edges;
 }
 
 input
