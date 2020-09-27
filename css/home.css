@@ -351,6 +351,13 @@ a
 	text-shadow: 0px 0px 7px #F15F78;
 }
 
+#emily
+{
+	font-weight: bold;
+	font-size: 1.75vw;
+	text-shadow: 0px 0px 7px #F15F78;
+}
+
 .jobtitles
 {
 	font-size: 1.25vw;
@@ -365,7 +372,7 @@ a
 	border-style: solid;
 }
 
-#email
+#emilie
 {
 	border-color: #F15F78;
 	border-width: 1px 2px 1px 2px;
