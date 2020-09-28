@@ -147,6 +147,11 @@
 	  width: 20vw;
     height: 7.5vw;
   }
+	
+	#dummy
+	{
+		width: 20%;
+	}
 }
 
 @media (max-height: 650px) and (orientation: landscape){
