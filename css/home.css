@@ -443,3 +443,9 @@ a
 	margin: 0;
 	padding: 0;
 }
+
+#dummy
+{
+	width: 10%;
+	height: auto;	
+}
