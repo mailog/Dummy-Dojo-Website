@@ -373,6 +373,12 @@ h2
 	display:inline-block;
 }
 
+.member-row
+{
+	display:inline-block;
+	width: 100%;
+}
+
 a
 {
 	text-decoration:none;
