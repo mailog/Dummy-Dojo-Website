@@ -88,17 +88,17 @@
   
 #about-details
 {
-	font-size: 3vw;	
+	font-size: 2.5vw;	
 }
 
   .name
   {
-    font-size: 2.5vw;
+    font-size: 3vw;
   }
 
   #emilie
   {
-    font-size: 2.5vw;
+    font-size: 3vw;
   }
   
 .profile-pic
@@ -110,7 +110,7 @@
 	
 	.member
 	{
-	width: 35%;
+	width: 40%;
 	}
 	
 	.member-row
