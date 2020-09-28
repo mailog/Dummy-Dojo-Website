@@ -203,7 +203,7 @@ body
 	border:none;
 	height: 100%;
 	width: 33%;
-	display:inline-block;
+	display:block;
 	padding: 0;
 	white-space: nowrap;
 	margin: 0;
