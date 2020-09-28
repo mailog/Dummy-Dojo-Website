@@ -46,7 +46,7 @@
   {
     position: relative;
     display: inline-block;
-    width: 50%;
+    width: 33%;
     height: 40%;
   }
 	
@@ -59,8 +59,8 @@
 	.gametitle
 {
 	height: auto;
-	width: 100%;
-	margin: 0;
+	width: 125%;
+	margin-left: -12.5%;
 }
 	/*.gameicon
 	{
@@ -70,7 +70,7 @@
 	
 	.storelinks
 	{
-		width: 75%;
+		width: 90%;
 		margin: 0 auto;
 	}
 	
