@@ -110,7 +110,12 @@
 	
 	.member
 	{
-	width: 20%;
+	width: 35%;
+	}
+	
+	.member-row
+	{
+		display:block;	
 	}
 	
   .jobtitles
