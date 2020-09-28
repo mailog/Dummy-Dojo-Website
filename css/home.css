@@ -172,6 +172,11 @@ body
 	margin: 0;
 }
 
+.game-row
+{
+	display:inline-block;	
+}
+
 .gametitle
 {
 	display: block;
