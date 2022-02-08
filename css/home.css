@@ -169,9 +169,10 @@ body
 {
 	display: inline-block;
 	vertical-align: top;
-	width: 19%;
+	width: 20%;
 	height: 80%;
 	margin: 0;
+	margin-left: 20%;
 }
 
 .game-row
