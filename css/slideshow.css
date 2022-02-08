@@ -92,6 +92,11 @@
 	z-index: 4;
 }
 
+#underlinguprisingbanner
+{
+    background-image: url(../images/underlinguprising.jpg);
+}
+
 #radioceanfg
 {
     background-image: url(../images/radioceanfg.png);
