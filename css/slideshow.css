@@ -20,11 +20,11 @@
     opacity: 0;
     z-index: 2;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 15s linear infinite 0s;
-    -moz-animation: imageAnimation 15s linear infinite 0s;
-    -o-animation: imageAnimation 15s linear infinite 0s;
-    -ms-animation: imageAnimation 15s linear infinite 0s;
-    animation: imageAnimation 15s linear infinite 0s; 
+    -webkit-animation: imageAnimation 10s linear infinite 0s;
+    -moz-animation: imageAnimation 10s linear infinite 0s;
+    -o-animation: imageAnimation 10s linear infinite 0s;
+    -ms-animation: imageAnimation 10s linear infinite 0s;
+    animation: imageAnimation 10s linear infinite 0s; 
 }
 
 .midground
@@ -155,7 +155,7 @@ ul
 	image-rendering: crisp-edges;
 }
 
-.slideshow li:nth-child(3) span { 
+/*.slideshow li:nth-child(3) span { 
 	background-image: url(../images/turtledaddybg.png);
 	-webkit-animation-delay: 10s;
 	-moz-animation-delay: 10s;
@@ -165,7 +165,7 @@ ul
 	image-rendering: pixelated;
 	image-rendering: -moz-crisp-edges;
 	image-rendering: crisp-edges;
-}
+}*/
 /*
 .slideshow li:nth-child(3) span { 
     background-image: url(../images/DoughjoBG.jpg);
